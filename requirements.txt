@@ -1,6 +1,4 @@
-streamlit
+Streamlit 
 torch
-transformers
-streamlit_webrtc
-webrtc_streamer
-av
+Streamlit_webrtc
+Transformers
