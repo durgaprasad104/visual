@@ -1,9 +1,5 @@
 streamlit
-Image
 torch
-AutoProcessor
-AutoTokenizer
-ViltForQuestionAnswering
-VideoTransformerBase
+transformers
 webrtc_streamer
-WebRtcMode
+av
