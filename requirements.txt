@@ -7,4 +7,3 @@ ViltForQuestionAnswering
 VideoTransformerBase
 webrtc_streamer
 WebRtcMode
-av
